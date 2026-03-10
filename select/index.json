@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Connected World",
+  "base_artist": "somunia",
+  "createdAt": "2026-03-10T22:00:45.246122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Connected World",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/01_Connected_World_somunia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Connected World - rework (feat. somunia)",
+      "artist": "gaburyu",
+      "has_synced": true,
+      "path": "select/02_Connected_World_-_rework_(feat._somunia)_gaburyu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "somunia - Connected World  (Music Video)",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/03_somunia_-_Connected_World_(Music_Video)_somunia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Connected World - rework",
+      "artist": "gaburyu, somunia",
+      "has_synced": true,
+      "path": "select/04_Connected_World_-_rework_gaburyu,_somunia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Connected World",
+      "artist": "somunia",
+      "has_synced": false,
+      "path": "select/pl_01_Connected_World_somunia.txt"
+    }
+  ]
+}
